@@ -17,7 +17,7 @@ O Gerador de Link para o WhatsApp foi projetado para funcionar em dispositivos m
 Usar o Gerador de Link para o WhatsApp é extremamente simples. Basta seguir os seguintes passos:
 
 <ul>
-<li>Acesse o site: https://marcusoliveiradev.com.br/gerador-de-link-para-whatsapp/</li>
+<li>Acesse o site: https://fyafir.github.io/gerador-de-link-whatsapp/</li>
 <li>Insira o número de telefone desejado, incluindo o código do país.</li>
 <li>Insira uma mensagem personalizada (opcional).</li>
 <li>Clique em "Gerar Link".</li>
