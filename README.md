@@ -23,4 +23,5 @@ Usar o Gerador de Link para o WhatsApp é extremamente simples. Basta seguir os 
 <li>Clique em "Gerar Link".</li>
 <li>Copie o link gerado e compartilhe com a pessoa desejada.</li>
 </ul>
-<h1Creditos> https://github.com/MarcusOliveiraDev</h1Creditos></h1>
+<h2>Créditos</h2> 
+https://github.com/MarcusOliveiraDev</h1Creditos></h1>
